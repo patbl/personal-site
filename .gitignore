@@ -1,9 +1,0 @@
-# Ignore bundler config
-/.bundle
-/.sass-cache
-/.cache
-.DS_Store
-build
-TAGS
-log
-lib/node_modules
