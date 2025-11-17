@@ -62,7 +62,6 @@ GEM
     concurrent-ruby (1.2.3)
     connection_pool (2.4.1)
     contracts (0.17)
-    csv (3.2.8)
     dotenv (2.8.1)
     drb (2.2.0)
       ruby2_keywords
@@ -124,7 +123,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  csv
   middleman!
   pry
 
